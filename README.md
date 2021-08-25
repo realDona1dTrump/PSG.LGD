@@ -1,2 +1,2 @@
 # PSG.LGD
-Deco3500
+DECO3500
