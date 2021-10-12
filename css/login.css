@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Roboto Condensed;
+    background-color: rgb(198,212,241);
+    width: 100%;
+}
+
+.box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 500px;
+    padding: 50px;
+    background:rgb(216,225,246);
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.box h2{
+    margin: 0 0 30px;
+    text-align: center;
+    color: rgb(46, 96, 212);
+    font-size: 32px;
+}
+
+.box .inputBox{
+    position: relative;
+    margin: 15px;
+}
+
+.box .inputBox input{
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 3px solid #fff;
+    outline: none;
+    background: transparent;
+    transition: .5s;
+}
+.box .inputBox label{
+    position: absolute;
+    top:0;
+    left: 0;
+    padding: 10px 0;
+    font-size: 18px;
+    color: black;
+    pointer-events: none;
+    transition: .5s;
+}
+.box .inputBox input:focus ~ label,
+.box .inputBox input:valid ~ label{
+    top: -30px;
+    left: 0;
+    color: rgb(46, 96, 212);
+}
+
+.box .selectBox label{
+    position: relative;
+    font-size: 18px;
+    color: black;
+    margin-left: 15px;
+}
+
+.box .selectBox select{
+    margin-left: 20px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    font-family: Roboto Condensed;
+    font-size: 14px;
+}
+
+.box .buttonBox input[type="button"]{
+    width: 200px;
+    margin: 0px 0px 20px 100px;
+    background-color: rgb(46, 96, 212);
+    font-family: Roboto Condensed;
+    font-size: 16px;
+    font-weight: bold;
+    color: whitesmoke;
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.box .buttonBox input[type="button"]:hover{
+    background-color: rgb(69, 121, 224);
+    color: white;
+}
+
