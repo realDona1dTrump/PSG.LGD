@@ -1,0 +1,128 @@
+.new-popup {
+	width: 100%;
+    height: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background: rgba(0,0,0,0.75);
+	visibility: hidden;
+    opacity: 0;
+	transition: all 1s ease;
+    z-index: 1001;
+}
+
+.close-buttom2 {
+    height: auto;
+}
+
+.close-buttom2 a {
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 20px;
+	text-transform: uppercase;
+    position: absolute;
+	top: 0;
+	right: 5px;
+	margin: 35px;
+    height: auto;
+}
+
+.close-buttom2 a:before {
+	content: "\2716";
+	padding-right: 5px;
+}
+
+body.show-new-popup {
+	overflow: hidden;
+}
+
+body.show-new-popup .new-popup {
+	visibility: visible;
+	opacity: 1;
+}
+
+.new_bg{
+    overflow: hidden;
+    background: white;
+    width: 40%;
+    height: 650px;
+	margin: 150px auto;
+    padding-top: 40px;
+    position: relative;
+	border-radius: 5px;
+    background-color: rgb(56, 71, 85);
+    margin-top: 150px;
+}
+
+.new_title{
+    width: 100%;
+    height: auto;
+    margin-left: 390px;
+    margin-bottom: 30px;
+    font-size: 21px;
+    color: #FFD9F7;
+}
+
+.new_item{
+    width: 100%;
+    height: auto;
+    margin-left: 140px;
+    margin-top: 30px;
+}
+
+.new_item p {
+    font-size: 21px;
+    color: #FFD9F7;
+    float: left;
+    margin-top: 6px;   
+    text-align: right;
+    width: 120px;
+}
+
+.new_item input{
+    width: 410px;
+    font-family: Robot;
+    font-size: 20px;
+    height: 40px;
+    float: left;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    background: #e8ecf9;
+    border: 0;
+    border-radius: 10px;
+    resize: none;
+    line-height: 45px;
+}
+
+.apply{
+    float: right;
+    margin-right: 50px;
+    margin-top: 40px;
+    width: auto;
+    height: auto;
+}
+
+#select2 {
+    float: left;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
+#form-start-date, #form-end-date {
+    width: 170px;
+    padding-left: 13px;
+}
+
+#form-end-date {
+    margin-left: 15px;
+}
+
+
+.new_item span {
+    float: left;
+    font-size: 21px;
+    color: thistle;
+    margin-left: 15px;
+    margin-top: 5px;
+}
