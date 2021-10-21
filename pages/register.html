@@ -7,27 +7,8 @@
     <link rel="stylesheet" href="../css/login.css">
     <script>
         function notification(){
-            var myselect=document.getElementById("locations");
-            var index = myselect.selectedIndex;
-            if(myselect.options[index].value=="Other Countries"){
-                alert("Sorry, your current location can not be accessed.");
-                myselect.selectedIndex=0;
-            }
-        }
-
-        function login(){
-            var username=document.getElementById("username").value;
-            var myselect=document.getElementById("locations");
-            var index = myselect.selectedIndex;
-            var country=myselect.options[index].value;
-            if(document.getElementById("username").value==""){
-                alert("Please enter your username.");
-            }
-            else{
-                window.location.href=("index.html?username="+username+"&country="+country);
-            }
-        }
-        
+            alert("If you create a new count, you can't experience all the functions. Please login in.");
+        }        
     </script>
 </head>
 
@@ -45,15 +26,15 @@
             </div>
             <div class="selectBox">
                 <label id="country">Country</label>
-                <select id="locations" onchange="notification()">
+                <select id="locations">
                     <option value="Australia">Australia</option>
                     <option value="China">China</option>
                     <option value="Other Countries">Other Countries</option>
                 </select>
             </div>
             <div class="buttonBox">
-                <input type="button" name="" value="Sign up And Login in" onclick="login()">
-                <a href="login.html"><input type="button" name="" value="Already Have A Account"></a>
+                <input type="button" name="" value="Sign Up" onclick="notification()">
+                <a href="login.html"><input type="button" name="" value="Back to Login In"></a>
             </div>
         </form>
     </div>
