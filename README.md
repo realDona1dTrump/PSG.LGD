@@ -10,7 +10,7 @@ Our project TeamUp is a multidisciplinary online collaboration platform for uni 
 
 ## Links
 
-This is the [Link to our Proof of Concept Prototype](https://github.com/realDona1dTrump/PSG.LGD/blob/main/pages/kanban.html.md). User needs to enter “Jim” for the username, and can enter anything for the password.
+This is the [Link to our Proof of Concept Prototype](htmlpreview.github.io/?). User needs to enter “Jim” for the username, and can enter anything for the password.
 
 This is our [Miro Link](https://miro.com/app/board/o9J_lz9jLgs=/?invite_link_id=921271592583). In the early stage of product conception, we used Miro for wireframing and shared important content such as questionnaires, collected data, and our discussion results.
 
@@ -18,15 +18,23 @@ This is our [Figma Link](https://www.figma.com/file/FZD6PdI99MoQNfOJ8uXydH/DECO3
 
 This is our [Promotional Video link](https://youtu.be/TmvrwKlb3us). This video roughly introduces the functions and features of TeamUp.
 
+## Design Process
+Stage1
+* [Paper Research & User Group](https://github.com/rockieyu/Ditto-NoProcrastination/wiki/Paper-Research-&-User-Group)
+* [Interviews](https://github.com/rockieyu/Ditto-NoProcrastination/wiki/Interviews)
+* [Three Possible Mechanisms](https://github.com/rockieyu/Ditto-NoProcrastination/wiki/Three-Possible-Mechanisms)
+* [Stand-up 01 Summary](https://github.com/rockieyu/Ditto-NoProcrastination/wiki/Stand-up-01-Summary)
 
-## Interactive Instruction
-![](https://github.com/realDona1dTrump/PSG.LGD/blob/main/Wiki_images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211022010030.png)
-![](https://github.com/realDona1dTrump/PSG.LGD/blob/main/Wiki_images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202110220100301.png)
-![](https://github.com/realDona1dTrump/PSG.LGD/blob/main/Wiki_images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202110220100302.png)
-![](https://github.com/realDona1dTrump/PSG.LGD/blob/main/Wiki_images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202110220100303.png)
-![](https://github.com/realDona1dTrump/PSG.LGD/blob/main/Wiki_images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202110220100304.png)
-![](https://github.com/realDona1dTrump/PSG.LGD/blob/main/Wiki_images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202110220100305.png)
-![](https://github.com/realDona1dTrump/PSG.LGD/blob/main/Wiki_images/5.png)
-![](https://github.com/realDona1dTrump/PSG.LGD/blob/main/Wiki_images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202110220100307.png)
-![](https://github.com/realDona1dTrump/PSG.LGD/blob/main/Wiki_images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202110220100308.png)
+Stage2
+* [Mechanism Testing (Co-design)](https://github.com/rockieyu/Ditto-NoProcrastination/wiki/Mechanism-Testing-(Co-design))
+* [Medium Fidelity Prototype](https://github.com/rockieyu/Ditto-NoProcrastination/wiki/Medium-Fidelity-Prototype)
+* [Stand-up 02 Summary](https://github.com/rockieyu/Ditto-NoProcrastination/wiki/Stand-up-02-Summary)
+
+Stage3
+* [Medium Testing (Heuristic)](https://github.com/rockieyu/Ditto-NoProcrastination/wiki/Medium-Testing-(Heuristic))
+* [High Fidelity Prototype](https://github.com/rockieyu/Ditto-NoProcrastination/wiki/High-Fidelity-Prototype)
+
+Final
+* [Prototype demonstrations & Presentation](https://github.com/rockieyu/Ditto-NoProcrastination/wiki/Prototype-Demonstrations-&-Presentation)
+
 
