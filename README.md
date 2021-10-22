@@ -1,6 +1,8 @@
 # PSG.LGD
 DECO3500
 
+Proof of Concept Prototype: pages/login.html
+
 Youtube: https://youtu.be/TmvrwKlb3us
 
 Figma；https://www.figma.com/file/FZD6PdI99MoQNfOJ8uXydH/DECO3500-MedFi-Prototype-(Copy)?node-id=0%3A1
