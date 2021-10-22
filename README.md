@@ -1,7 +1,7 @@
 # PSG.LGD
 DECO3500
 
-Proof of Concept Prototype: pages/login.html
+Proof of Concept Prototype: https://github.com/realDona1dTrump/PSG.LGD/blob/c7cf32fe5de5fb14cf8e0493b44dd6b2e317f156/pages/index.html
 
 Youtube: https://youtu.be/TmvrwKlb3us
 
