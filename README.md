@@ -21,7 +21,7 @@ This is our [Promotional Video link](https://youtu.be/TmvrwKlb3us). This video r
 
 ## Design Process
 * [Poster](https://github.com/realDona1dTrump/PSG.LGD/wiki#poster)
-* [Promotional Video](https://github.com/realDona1dTrump/PSG.LGD/wiki#promotional-videoo)
+* [Promotional Video](https://github.com/realDona1dTrump/PSG.LGD/wiki#promotional-video)
 * [Core Concept](https://github.com/realDona1dTrump/PSG.LGD/wiki#core-concept)
 * [Social & Mobile Aspect](https://github.com/realDona1dTrump/PSG.LGD/wiki#social--mobile-aspect)
 * [Domain/Problem Space](https://github.com/realDona1dTrump/PSG.LGD/wiki#domainproblem-space)
