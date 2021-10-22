@@ -10,7 +10,7 @@ Our project TeamUp is a multidisciplinary online collaboration platform for uni 
 
 ## Links
 
-This is the [Link to our Proof of Concept Prototype] htmlpreview.github.io/?https://github.com/realDona1dTrump/PSG.LGD/blob/main/pages/login.html
+This is the [Link to our Proof of Concept Prototype] (http://htmlpreview.github.io/?https://github.com/realDona1dTrump/PSG.LGD/blob/main/pages/login.html)
 User needs to enter “Jim” for the username, and can enter anything for the password.
 
 This is our [Miro Link](https://miro.com/app/board/o9J_lz9jLgs=/?invite_link_id=921271592583). In the early stage of product conception, we used Miro for wireframing and shared important content such as questionnaires, collected data, and our discussion results.
