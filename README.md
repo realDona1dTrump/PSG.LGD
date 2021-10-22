@@ -17,8 +17,7 @@ DECO3500
 
 ## Promotional Materials
 
-[Proof of Concept Prototype](./https://github.com/realDona1dTrump/PSG.LGD/blob/main/pages/index.html)
-
+[Proof of Concept Prototype](https://github.com/realDona1dTrump/PSG.LGD/blob/main/pages/index.html.md)
 
 Youtube: https://youtu.be/TmvrwKlb3us
 
