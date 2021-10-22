@@ -58,7 +58,7 @@ body.show-new-popup .new-popup {
 .new_title{
     width: 100%;
     height: auto;
-    margin-left: 390px;
+    margin-left: 320px;
     margin-bottom: 30px;
     font-size: 21px;
     color: #FFD9F7;
@@ -67,7 +67,7 @@ body.show-new-popup .new-popup {
 .new_item{
     width: 100%;
     height: auto;
-    margin-left: 140px;
+    margin-left: 80px;
     margin-top: 30px;
 }
 
