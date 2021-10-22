@@ -3,12 +3,12 @@
 # PSG.LGD
 DECO3500
 
-## Icon and name
+## Introduction
 
 Our project TeamUp is a multidisciplinary online collaboration platform for uni students (especially students doing Computer Science or Interaction Design). TeamUp is more lightweight than any other platforms, which is easier for students to learn. The Kanban and the Drive is highly connected, changes in the Drive will be displayed on Kanban automatically, the interaction is streamlined and simple, users can do split screen within our web pages to avoid swiping between many tabs. It can also tell users other teammates’ local time, so users can manage their schedule easier for cross-regional collaboration. 
 
 
-## Promotional Materials
+## Links
 
 This is the [Link to our Proof of Concept Prototype](https://github.com/realDona1dTrump/PSG.LGD/blob/main/pages/index.html.md). User needs to enter “Jim” for the username, and can enter anything for the password.
 
