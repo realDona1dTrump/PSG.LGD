@@ -3,7 +3,20 @@
 # PSG.LGD
 DECO3500
 
+
+## Interactive Instruction
+![](https://github.com/realDona1dTrump/PSG.LGD/blob/main/Wiki_images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211022010030.png)
+![](https://github.com/realDona1dTrump/PSG.LGD/blob/main/Wiki_images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202110220100301.png)
+![](https://github.com/realDona1dTrump/PSG.LGD/blob/main/Wiki_images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202110220100302.png)
+![](https://github.com/realDona1dTrump/PSG.LGD/blob/main/Wiki_images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202110220100303.png)
+![](https://github.com/realDona1dTrump/PSG.LGD/blob/main/Wiki_images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202110220100304.png)
+![](https://github.com/realDona1dTrump/PSG.LGD/blob/main/Wiki_images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202110220100305.png)
+![](https://github.com/realDona1dTrump/PSG.LGD/blob/main/Wiki_images/5.png)
+![](https://github.com/realDona1dTrump/PSG.LGD/blob/main/Wiki_images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202110220100307.png)
+![](https://github.com/realDona1dTrump/PSG.LGD/blob/main/Wiki_images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202110220100308.png)
 Proof of Concept Prototype: https://github.com/realDona1dTrump/PSG.LGD/blob/c7cf32fe5de5fb14cf8e0493b44dd6b2e317f156/pages/index.html
+
+## Promotional Materials
 
 Youtube: https://youtu.be/TmvrwKlb3us
 
