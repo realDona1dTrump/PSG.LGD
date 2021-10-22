@@ -20,13 +20,13 @@ This is our [Figma Link](https://www.figma.com/file/FZD6PdI99MoQNfOJ8uXydH/DECO3
 This is our [Promotional Video link](https://youtu.be/TmvrwKlb3us). This video roughly introduces the functions and features of TeamUp.
 
 ## Design Process
-[Poster & Promotional Video](https://github.com/realDona1dTrump/PSG.LGD/wiki#poster--promotional-video)
-[Core Concept](https://github.com/realDona1dTrump/PSG.LGD/wiki#core-concept)
-[Social & Mobile Aspect](https://github.com/realDona1dTrump/PSG.LGD/wiki#social--mobile-aspect)
-[Domain/Problem Space](https://github.com/realDona1dTrump/PSG.LGD/wiki#domainproblem-space)
-[Design Opportunity](https://github.com/realDona1dTrump/PSG.LGD/wiki#design-opportunity)
-[User Research](https://github.com/realDona1dTrump/PSG.LGD/wiki#user-research)
-[Interactive Instruction](https://github.com/realDona1dTrump/PSG.LGD/wiki#interactive-instruction)
-[Evaluation & Iteration](https://github.com/realDona1dTrump/PSG.LGD/wiki#evaluation--iteration)
-[Worklist](https://github.com/realDona1dTrump/PSG.LGD/wiki#worklist)
-[Reference](https://github.com/realDona1dTrump/PSG.LGD/wiki#reference)
+* [Poster & Promotional Video](https://github.com/realDona1dTrump/PSG.LGD/wiki#poster--promotional-video)
+* [Core Concept](https://github.com/realDona1dTrump/PSG.LGD/wiki#core-concept)
+* [Social & Mobile Aspect](https://github.com/realDona1dTrump/PSG.LGD/wiki#social--mobile-aspect)
+* [Domain/Problem Space](https://github.com/realDona1dTrump/PSG.LGD/wiki#domainproblem-space)
+* [Design Opportunity](https://github.com/realDona1dTrump/PSG.LGD/wiki#design-opportunity)
+* [User Research](https://github.com/realDona1dTrump/PSG.LGD/wiki#user-research)
+* [Interactive Instruction](https://github.com/realDona1dTrump/PSG.LGD/wiki#interactive-instruction)
+* [Evaluation & Iteration](https://github.com/realDona1dTrump/PSG.LGD/wiki#evaluation--iteration)
+* [Worklist](https://github.com/realDona1dTrump/PSG.LGD/wiki#worklist)
+* [Reference](https://github.com/realDona1dTrump/PSG.LGD/wiki#reference)
